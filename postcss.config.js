@@ -1,6 +1,1 @@
-module.exports = {
-  plugins: {
-    "postcss-import": {},
-    "@tailwindcss/postcss": {},
-  },
-}
+// Placeholder for postcss.config.js
